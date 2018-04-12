@@ -1,0 +1,22 @@
+{
+  "name": "userscript-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Webpack Plugin for generating UserScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robario/userscript-webpack-plugin.git"
+  },
+  "author": "Robario <webmaster@robario.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robario/userscript-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/robario/userscript-webpack-plugin#readme",
+  "dependencies": {
+    "webpack-sources": "^1.1.0"
+  }
+}
